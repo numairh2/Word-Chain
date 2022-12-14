@@ -1,2 +1,2 @@
 # Word-Chain
-A program that find similar words in dictionary csv file.
+Creates a Word Ladder based on a dictonary csv file and adds to a list of words.
